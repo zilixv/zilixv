@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
-🌱 I am 린린린린
-```
+
+## 🌱 I am 린린린린
+
 
 <img src="https://upload3.inven.co.kr/upload/2020/04/02/bbs/i015717136951.gif">
